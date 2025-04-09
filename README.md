@@ -39,7 +39,7 @@ Key technical features:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Rollsi/table-tennis-game.git
+git clone https://github.com/Rollsi/Table-Tennis-Game.git
 ```
 
 2. Open `index.html` in your web browser
